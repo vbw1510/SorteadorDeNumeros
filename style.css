@@ -1,0 +1,60 @@
+*{
+    font-family: "Fjalla One", sans-serif;
+    margin: 0;
+    padding: 0; 
+    
+}
+
+img{
+    width: 250px;
+
+ }
+
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 65vh;
+    color: aliceblue;
+    padding: 20px;
+    
+
+}
+
+body{
+    background-color: #000000;
+}
+
+button{
+    background-color: #e00c0c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+input{
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button:hover{
+    background-color: #c00a0a;
+}
+
+button:active{
+    background-color: #d32e2e;
+}
+
+h3{
+    margin: 25px;
+}
+
