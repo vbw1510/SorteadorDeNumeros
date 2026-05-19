@@ -21,4 +21,4 @@ O projeto foi desenvolvido utilizando tecnologias simples mas com intuito de apr
 
 ## 📸 Preview
 
-./assets/print.png
+![image alt] (https://github.com/vbw1510/SorteadorDeNumeros/blob/2f2404eab0785cb6e1ae1ffc172877a71a367a7e/assets/print.png)
